@@ -1,9 +1,10 @@
-Nguyen Hoang Quan 20225519
+
+ASSIGNMENT 3: Nguyen Hoang Quan 20225519 
 
 **Link to model checkpoint:**
 https://drive.google.com/file/d/1E9usq7mUTlRfUksQOaKBukUWnFcnT_IU/view?usp=drive_link
 
-Place the model in the same directory as `infer.py` and it's ready!
+Place the model in the same directory as `infer.py` and it's ready to go!
 
 **Copiable scripts:**
 ```
